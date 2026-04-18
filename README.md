@@ -151,7 +151,6 @@
 ![Learning](https://img.shields.io/badge/_Node.js-Fullstack_Development-green?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/✅_QA_Testing-Quality_Assurance-orange?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/🔄_DevOps-Deployment_&_CI/CD-purple?style=for-the-badge)
-![Learning](https://img.shields.io/badge/☕_Java-OOP_&_Enterprise-red?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/📊_SQL-Database_Management-teal?style=for-the-badge)
 
 </div>
